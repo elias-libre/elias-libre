@@ -1,3 +1,3 @@
 he/him \
-amateur developer
+amateur developer \
 aspiring devops
