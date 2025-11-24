@@ -1,3 +1,3 @@
-he/him
-opensource advocate
-amateur developer
+he/him \
+opensource advocate \
+amateur developer \
