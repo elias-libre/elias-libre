@@ -1,14 +1,3 @@
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Ilia from Saint-Petersburg<br><br>- 🔭 I’m currently looking for a job as a System Administrator / DevOps<br>- 📚 I'm currently learning Ansible, planning on learning Go</p>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
